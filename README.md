@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaThanh200320
 - 👀 I’m interested in CV, NLP, Backend
-- 🌱 I’m currently learning CV, NLP, Backend
+- 🌱 I’m currently learning CV, NLP, Backend web dev
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me
 
