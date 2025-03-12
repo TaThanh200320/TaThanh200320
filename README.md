@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TaThanh200320
-- 👀 I’m interested in CV, NLP, Backend web dev
-- 🌱 I’m currently learning CV, NLP, Backend web dev
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me
+- 👀 I’m interested in CV, Fullstacks web dev, DevOps
+- 🌱 I’m currently working in the field of CV, Fullstacks Web Dev
+- 🖥️ Developer at VIELINA
+- 📫 How to reach me: tathanh200320@gmail.com
 
 <!---
 TaThanh200320/TaThanh200320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
